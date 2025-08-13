@@ -37,3 +37,10 @@ button {
   border-radius: 4px;
   cursor: pointer;
 }
+#map {
+  width: 80%;
+  height: 400px;
+  margin: 20px auto;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+}
